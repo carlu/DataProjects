@@ -7,8 +7,8 @@ import shutil
 
 BaseUrl = 'https://www.jcq.org.uk/Download/examination-results/a-levels/{}/{}'
 FileNameList = [
-    ['a-as-and-aea-results','a-as-and-aea-results-summer-{}']
-
+    ['a-as-and-aea-results','a-as-and-aea-results-summer-{}'],
+    ['gce-trends-{}']
     ]
 
 YearList = ['2001-2006']
